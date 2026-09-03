@@ -5,5 +5,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/ganeshkumba/leetcode/tree/master/0182-duplicate-emails) |
+| [0596-classes-with-at-least-5-students](https://github.com/ganeshkumba/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1683-invalid-tweets](https://github.com/ganeshkumba/leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
